@@ -1,0 +1,8 @@
+ISQA 3900 Activity 3 by Jacob Pettinger
+
+/lumber.py
+This is the main and only method for the program, it takes two different numbers from a user to calculate the total
+price of a batch of lumber they are to purchase. The two numbers are the amount of lumber in feet the user wants to
+purchase, and the grade of lumber they are purchasing. These two numbers are used to calculate the final cost, which if
+it reaches certain thresholds allows for discounts to be applied to the final total. The final total is given to the
+user and they are prompted to ascertain if they'd like to continue using the calculator or not.
